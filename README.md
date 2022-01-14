@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Luís Miguel. 👋
 
-- 🌱 Atualmente estou estudando JavaScript.
+- 🌱 Atualmente estou estudando Laravel.
 - 📫 Meu email: luisdutra2004@gmail.com
-- ⚡ Programando ... Ou quase isso 😄
+- ⚡ Programando...
 
 <div align="center">
   <a href="https://github.com/luismda">
