@@ -1,12 +1,12 @@
 ### Hi, I'm Luís Miguel 👋
 
-I'm currently working as a Full Stack Developer and actively studying the JavaScript stack.
+I'm currently a Full Stack Developer and actively studying the JavaScript stack.
 
 #### About me
 - 🎓 I'm studying Software Engineering
 - 📚 I'm study JavaScript ecosystem technologies with a focus on web & mobile development
-- 💼 I'm currently work with web development
-- 💜 Passionate about programming
+- 💼 I'm currently focused on web development, with an interest in mobile development as well
+- 💙 Passionate about programming
 
 #### Languages and tools
 - JavaScript
