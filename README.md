@@ -11,8 +11,8 @@ I'm currently a Full Stack Developer and actively studying the JavaScript stack.
 #### Languages and tools
 - JavaScript
 - TypeScript
-- Reactjs
-- Nodejs
+- React.js
+- Node.js
 - React Native
 
 #### 💬 Find me elsewhere
