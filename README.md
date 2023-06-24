@@ -4,16 +4,15 @@ I'm currently a Full Stack Developer and actively studying the JavaScript stack.
 
 #### About me
 - 🎓 I'm studying Software Engineering
-- 📚 I'm study JavaScript ecosystem technologies with a focus on web & mobile development
-- 💼 I'm currently focused on web development, with an interest in mobile development as well
+- 📚 I'm study JavaScript ecosystem technologies with a focus on web, mobile and back-end development
 - 💙 Passionate about programming
 
 #### Languages and tools
 - JavaScript
 - TypeScript
 - React.js
-- Node.js
 - React Native
+- Node.js
 
 #### 💬 Find me elsewhere
 
