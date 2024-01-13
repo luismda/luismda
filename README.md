@@ -1,17 +1,17 @@
 ### Hi, I'm Luís Miguel 👋
 
-I'm currently a Full Stack Developer and actively studying the JavaScript stack.
+I'm currently a React Native Developer.
 
 #### About me
 - 🎓 I'm studying Software Engineering
-- 📚 I'm study JavaScript ecosystem technologies with a focus on web, mobile and back-end development
+- 📚 I'm study JavaScript ecosystem technologies with a focus on mobile development
 - 💙 Passionate about programming
 
 #### Languages and tools
 - JavaScript
 - TypeScript
-- React.js
 - React Native
+- React.js
 - Node.js
 
 #### 💬 Find me elsewhere
